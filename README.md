@@ -13,11 +13,17 @@ Welcome to the **JavaScript Projects** repository! This collection showcases a v
    Calculate your age by day, month, and year with this straightforward age calculator. A useful tool that reinforces JavaScript date manipulation and user interface design.  
    - **[Live Project](https://age-calculalor.netlify.app/)**
    - **[View Code](https://github.com/Ali-Najfee/Javascript-projects/tree/main/age-calculator)**
+3. **🧮 [Basic Calculator]**  
+   Perform simple mathematical operations—addition, subtraction, multiplication, and division—with ease! This intuitive basic calculator is built using HTML, CSS, and JavaScript, showcasing functional programming concepts and clean user interface design.
+   - **[Live Project](https://age-calculalor.netlify.app/)**
+   - **[View Code](https://github.com/Ali-Najfee/Javascript-projects/tree/main/js-dom-calcualtor)**
+     
 
 ## 💻 Explore All Projects
 
 Browse the full collection of my JavaScript projects here:
 - **[View All JavaScript Projects](https://github.com/Ali-Najfee/Javascript-projects/tree/main)**
+- 
 
 ---
 
