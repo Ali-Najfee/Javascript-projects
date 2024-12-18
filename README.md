@@ -17,7 +17,10 @@ Welcome to the **JavaScript Projects** repository! This collection showcases a v
    Perform simple mathematical operations—addition, subtraction, multiplication, and division—with ease! This intuitive basic calculator is built using HTML, CSS, and JavaScript, showcasing functional programming concepts and clean user interface design.
    - **[Live Project](https://age-calculalor.netlify.app/)**
    - **[View Code](https://github.com/Ali-Najfee/Javascript-projects/tree/main/js-dom-calcualtor)**
-     
+4. **🛒 [Ecommerce-Feature]**  
+  Ecommerce delete function using DOM,Map,Foreach,Filter fucntion 
+   - **[Live Project](https://ecommerce-features.netlify.app/)**
+   - **[View Code](https://github.com/Ali-Najfee/Javascript-projects/tree/main/ecommerce-feature)**
 
 ## 💻 Explore All Projects
 
