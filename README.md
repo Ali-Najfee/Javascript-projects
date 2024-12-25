@@ -18,9 +18,14 @@ Welcome to the **JavaScript Projects** repository! This collection showcases a v
    - **[Live Project](https://age-calculalor.netlify.app/)**
    - **[View Code](https://github.com/Ali-Najfee/Javascript-projects/tree/main/js-dom-calcualtor)**
 4. **🛒 [Ecommerce-Feature]**  
-  Ecommerce delete function using DOM,Map,Foreach,Filter fucntion 
+  Ecommerce delete function using DOM,Map,Foreach,Filter function 
    - **[Live Project](https://ecommerce-features.netlify.app/)**
-   - **[View Code](https://github.com/Ali-Najfee/Javascript-projects/tree/main/ecommerce-feature)**
+   - **[View Code](https://github.com/Ali-Najfee/Javascript-projects/tree/main/ecommerce-basic-features)**
+5. **🕹️ [Guess-Game]**  
+ Guess Game function using DOM,Map,Foreach,Filter function 
+   - **[Live Project](https://guessinggamer.netlify.app/)**
+   - **[View Code](https://github.com/Ali-Najfee/Javascript-projects/blob/main/guessing-game)**
+
 
 ## 💻 Explore All Projects
 
