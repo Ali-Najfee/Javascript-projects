@@ -31,7 +31,7 @@ Welcome to the **JavaScript Projects** repository! This collection showcases a v
 
 Browse the full collection of my JavaScript projects here:
 - **[View All JavaScript Projects](https://github.com/Ali-Najfee/Javascript-projects/tree/main)**
-- 
+  
 
 ---
 
