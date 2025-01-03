@@ -25,6 +25,10 @@ Welcome to the **JavaScript Projects** repository! This collection showcases a v
  Guess Game function using DOM,Map,Foreach,Filter function 
    - **[Live Project](https://guessinggamer.netlify.app/)**
    - **[View Code](https://github.com/Ali-Najfee/Javascript-projects/blob/main/guessing-game)**
+6. **❄️[Weather-App]**  
+Weather App function using DOM,Eventlistener,Fetch API,callBak 
+   - **[Live Project](https://weather-jsapps.netlify.app/)**
+   - **[View Code](https://github.com/Ali-Najfee/Javascript-projects/tree/main/weather-app)**
 
 
 ## 💻 Explore All Projects
